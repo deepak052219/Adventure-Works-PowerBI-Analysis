@@ -110,12 +110,12 @@ The dashboard helps identify:
 
 ### Summary Dashboard
 
-![Sales Dashboard](screenshots/dashboard1.png)
+![Summary Dashboard](Summary-Report.png)
 
 ### Product Analysis
 
-![Product Analysis](screenshots/dashboard2.png)
+![Product Analysis](Product-Report.png)
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/dashboard3.png)
+![Customer Analysis](Customer-Report.png)
