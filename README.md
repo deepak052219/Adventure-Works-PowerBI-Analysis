@@ -106,4 +106,16 @@ The dashboard helps identify:
 * Customer purchasing patterns
 * Areas with strong and weak sales performance
 
-These insights can help businesses understand their performance and make more informed decisions.
+## 📸 Dashboard Preview
+
+### Summary Dashboard
+
+![Sales Dashboard](screenshots/dashboard1.png)
+
+### Product Analysis
+
+![Product Analysis](screenshots/dashboard2.png)
+
+### Customer Analysis
+
+![Customer Analysis](screenshots/dashboard3.png)
